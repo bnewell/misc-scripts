@@ -1,1 +1,2 @@
 # misc-scripts
+findPS4s.py - Script that searches for active PS4(s) on the local network
